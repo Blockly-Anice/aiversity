@@ -78,6 +78,5 @@ This project is released under the MIT License.
 
 For inquiries or further information about AIversity, please contact:
 
-- Name: Robert Maye
-- Email: robert@aurelio.ai
-- GitHub: https://github.com/RobMaye
+- Email: fmilyha23821@gmail.com
+- GitHub: https://github.com/Blockly-Anice
