@@ -9,7 +9,6 @@ def load_json_file(file_path):
     with open(file_path, "r") as file:
         return json.load(file)
 
-
 def color_json(json_str):
     colors = {
         "key": "#79c0ff",
