@@ -78,5 +78,5 @@ This project is released under the MIT License.
 
 For inquiries or further information about AIversity, please contact:
 
-- Email: fmilyha23821@gmail.com
+- Email: stepanyanhayk25@gmail.com
 - GitHub: https://github.com/Blockly-Anice
